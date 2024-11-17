@@ -1,0 +1,97 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<root>
+    <album>
+        <name>Bao Tang Cua Nuoi Tiec</name>
+        <genre>Indie Pop</genre>
+        <artist>VU</artist>
+        <cover>./Covers/Bao_Tang_Cua_Nuoi_Tiec.jpeg</cover>
+        <songs>
+            <song>
+                <name>Neu nhung tiec nuoi</name>
+                <location>Music/Neu_Nhung_Tiec_Nuoi.wav</location>
+                <name>Binh Yen</name>
+                <location>Music/Binh_Yen.wav</location>
+                <name>Danh Het Xuat Thi De Cho Nhau</name>
+                <location>Music/Danh_Het_Xuan_Thi_De_Cho_Nhau.wav</location>
+                <name>Khong Yeu Em Thi Yeu Ai</name>
+                <location>Music/Khong_Yeu_Em_Thi_Yeu_Ai.wav</location>
+                <name>Mua Mua Ay</name>
+                <location>Music/Mua_Mua_Ay.wav</location>
+                <name>May Khoc Vi Dieu Gi</name>
+                <location>Music/May_Khoc_Vi_Dieu_Gi.wav</location>
+                <name>Nguoi Cho Trong Van Vuong</name>
+                <location>Music/Ngoi_Cho_Trong_Van_Vuong.wav</location>
+                <name>Nhung Chuyen Bay</name>
+                <location>Music/Nhung_Chuyen_Bay.wav</location>
+                <name>Nhung Loi Hua Bo Quen</name>
+                <location>Music/Nhung_Loi_Hua_Bo_Quen.wav</location>
+            </song>
+        </songs>
+    </album>
+    <album>
+        <name>LOI CHOI</name>
+        <genre>Indie Pop</genre>
+        <artist>Wren Evan</artist>
+        <cover>./Covers/Loi_Choi.jpg</cover>
+        <songs>
+            <song>
+                <name>Call Me</name>
+                <location>Music/Call_Me.wav</location>
+                <name>To Te Ti</name>
+                <location>Music/To_Te_Ti.wav</location>
+                <name>Tung Quen</name>
+                <location>Music/Tung_Quen.wav</location>
+                <name>Phong Do Tim Em</name>
+                <location>Music/Phong_Do_Tim_Em.wav</location>
+            </song>
+        </songs>
+    </album>
+    <album>
+        <name>Test Album 1</name>
+        <genre>None</genre>
+        <artist>None</artist>
+        <cover></cover>
+    </album>
+    <album>
+        <name>Test Album 2</name>
+        <genre>None</genre>
+        <artist>None</artist>
+        <cover></cover>
+    </album>
+    <album>
+        <name>Test Album 3</name>
+        <genre>None</genre>
+        <artist>None</artist>
+        <cover></cover>
+    </album>
+    <album>
+        <name>Test Album 4</name>
+        <genre>None</genre>
+        <artist>None</artist>
+        <cover></cover>
+    </album>
+    <album>
+        <name>Test Album 5</name>
+        <genre>None</genre>
+        <artist>None</artist>
+        <cover></cover>
+    </album>
+    <album>
+        <name>Test Album 6</name>
+        <genre>None</genre>
+        <artist>None</artist>
+        <cover></cover>
+    </album>
+    <album>
+        <name>Test Album 7</name>
+        <genre>None</genre>
+        <artist>None</artist>
+        <cover></cover>
+    </album>
+    <album>
+        <name>Test Album 8</name>
+        <genre>None</genre>
+        <artist>None</artist>
+        <cover></cover>
+    </album>
+</root>

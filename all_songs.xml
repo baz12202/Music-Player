@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<root>
+  <song>
+    <name>Neu nhung tiec nuoi</name>
+    <location>Music/Neu_Nhung_Tiec_Nuoi.wav</location>
+    <genre>Indie Pop</genre>
+    <artist>VU</artist>
+  </song>
+  <song>
+    <name>Binh Yen</name>
+    <location>Music/Binh_Yen.wav</location>
+    <genre>Indie Pop</genre>
+    <artist>VU</artist>
+  </song>
+  <song>
+    <name>Danh Het Xuat Thi De Cho Nhau</name>
+    <location>Music/Danh_Het_Xuan_Thi_De_Cho_Nhau.wav</location>
+    <genre>Indie Pop</genre>
+    <artist>VU</artist>
+  </song>
+  <song>
+    <name>Khong Yeu Em Thi Yeu Ai</name>
+    <location>Music/Khong_Yeu_Em_Thi_Yeu_Ai.wav</location>
+    <genre>Indie Pop</genre>
+    <artist>VU</artist>
+  </song>
+  <song>
+    <name>Mua Mua Ay</name>
+    <location>Music/Mua_Mua_Ay.wav</location>
+    <genre>Indie Pop</genre>
+    <artist>VU</artist>
+  </song>
+  <song>
+    <name>May Khoc Vi Dieu Gi</name>
+    <location>Music/May_Khoc_Vi_Dieu_Gi.wav</location>
+    <genre>Indie Pop</genre>
+    <artist>VU</artist>
+  </song>
+  <song>
+    <name>Nguoi Cho Trong Van Vuong</name>
+    <location>Music/Ngoi_Cho_Trong_Van_Vuong.wav</location>
+    <genre>Indie Pop</genre>
+    <artist>VU</artist>
+  </song>
+  <song>
+    <name>Nhung Chuyen Bay</name>
+    <location>Music/Nhung_Chuyen_Bay.wav</location>
+    <genre>Indie Pop</genre>
+    <artist>VU</artist>
+  </song>
+  <song>
+    <name>Nhung Loi Hua Bo Quen</name>
+    <location>Music/Nhung_Loi_Hua_Bo_Quen.wav</location>
+    <genre>Indie Pop</genre>
+    <artist>VU</artist>
+  </song>
+  <song>
+    <name>Call Me</name>
+    <location>Music/Call_Me.wav</location>
+    <genre>Indie Pop</genre>
+    <artist>Wren Evan</artist>
+  </song>
+  <song>
+    <name>To Te Ti</name>
+    <location>Music/To_Te_Ti.wav</location>
+    <genre>Indie Pop</genre>
+    <artist>Wren Evan</artist>
+  </song>
+  <song>
+    <name>Tung Quen</name>
+    <location>Music/Tung_Quen.wav</location>
+    <genre>Indie Pop</genre>
+    <artist>Wren Evan</artist>
+  </song>
+  <song>
+    <name>Phong Do Tim Em</name>
+    <location>Music/Phong_Do_Tim_Em.wav</location>
+    <genre>Indie Pop</genre>
+    <artist>Wren Evan</artist>
+  </song>
+</root>
