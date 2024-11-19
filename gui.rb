@@ -2,7 +2,7 @@
   # Global Setting #
 #####################
 require "gosu"
-#cosole colouring
+#console coloring
 require "colorize"
 #XML file reading
 require "nokogiri"
@@ -564,7 +564,7 @@ def draw_play_bar()
   add_element(FONT,playbar_height + text_margin,bottom_height + text_margin,PLAYBAR,1.0,HIGHLIGHT,"txt_album",@playing_album_name)
   add_element(FONT,playbar_height + text_margin,bottom_height + text_margin + @info_font.height,PLAYBAR,0.7,TEXT, "txt_album_song",@playing_song_name)
   
-  #arrand and each loop to evenly and dynamicaly space out all of the playbar buttons
+  #arrand and each loop to evenly and dynamically space out all of the playbar buttons
   #contain images name
   playbar_images = ["repeat","fast_forward",@pause_play,"fast_backward", "stop"] #Contains image names
   image_spacing = 50
